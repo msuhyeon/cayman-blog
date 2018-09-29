@@ -1,13 +1,11 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: A few more info about this bloge
 permalink: /about.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
-
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+This is suhyeon's blog for study. You can find out more info about web development, as well as basic algorithm. 
 
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+[Go to the Home]({{ site.url }}{{ site.baseurl }})

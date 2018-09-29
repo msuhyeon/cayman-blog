@@ -7,11 +7,6 @@
 #
 layout: home
 ---
+This blog is a blog made for study and the record here is intended to improve professionalism. Three years have passed since I became a web developer, but there are many drawbacks. Through this blog, I will compensate for the shortfall. If possible, the content to be posted on the blog is written in English.
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
-
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+And I may have made a mistake yesterday, but yesterday I am still mine. Today, I am a person who has my own faults and mistakes. I may be a bit wise tomorrow, but that will be me too. These mistakes and errors are mine, making the brightest star in the constellation of my life.
